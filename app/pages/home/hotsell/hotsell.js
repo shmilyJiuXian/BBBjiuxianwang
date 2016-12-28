@@ -1,0 +1,10 @@
+angular.module("home.hotSell",[])
+.config(function($stateProvider,$urlRouterProvider){
+	$stateProvider
+	.state({
+		name:"hotsell",
+		url:"/hotsell",
+		templateUrl:'pages/home/hotsell/hotsell.html',
+		css:'pages/home/hotsell/hotsell.css'
+	})
+})

@@ -1,0 +1,4628 @@
+{
+  "hashMapList": [
+    {
+      "commonProductInfo": {
+        "pid": 30246,
+        "imgPath": "http://img10.jiuxian.com/2016/0817/4fc2728844354d1c8dd910f0c14554b44.jpg",
+        "pname": "42°优级杏花村1000ml（双瓶装）",
+        "jxPrice": 472,
+        "actPrice": 138,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "30246": [
+            {
+              "actId": 17975,
+              "activtype": 23,
+              "name": "满199送肯迪醒一瓶",
+              "startTime": "2016-12-20 10:12:21",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-24 11:00:49",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "isLoop": true,
+              "fullLimitPrice": 199,
+              "giftIds": [
+                26635
+              ]
+            },
+            {
+              "actId": 209389,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-16 18:01:14",
+              "endTime": "2016-12-29 18:01:18",
+              "createTime": "2016-12-16 18:04:34",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "更多团购活动",
+              "zdyurl": "http://tuan.jiuxian.com/",
+              "onlyCPS": false,
+              "productId": 30246,
+              "groupPurchasePrice": 138,
+              "totalNubs": 5600,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "低价疯抢中，1000ml大容量/瓶①小缸精酿的优级酒品，粮食固态发酵②四川酿酒研究所官荣评分93分，权威机构为酒质保驾华航③历时两年匠心之作，白银帝国鸿运当头，致敬自己与贵人！④一杯杏花村，半部华夏史！做醉坚定的历史文化传承者！",
+              "slogan2": "低价疯抢中，1000ml大容量/瓶①小缸精酿的优级酒品，粮食固态发酵②四川酿酒研究所官荣评分93分，权威机构为酒质保驾华航③历时两年匠心之作，白银帝国鸿运当头，致敬自己与贵人！④一杯杏花村，半部华夏史！做醉坚定的历史文化传承者！",
+              "initbuyer": 12,
+              "initsales": 1,
+              "info": null,
+              "listimage": "/2016/1207/a02b556d63f046dd9f3d13bd8378790a.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 3
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 6,
+          "name": "满赠",
+          "wordColor": "#FFFFFF",
+          "backColor": "#5EAFFE"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 24119,
+        "imgPath": "http://img06.jiuxian.com/2016/1028/9620eeb31d7844fc912d05cf03d1b0dc4.jpg",
+        "pname": "53°国窖1573典藏500ml",
+        "jxPrice": 849,
+        "actPrice": 739,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "24119": [
+            {
+              "actId": 17985,
+              "activtype": 22,
+              "name": "国窖1573典藏下单立减140元",
+              "startTime": "2016-12-15 10:00:01",
+              "endTime": "2016-12-26 09:00:00",
+              "createTime": "2016-12-24 16:11:06",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "fullLimitPrice": 739,
+              "decreasePrice": 140,
+              "isLoop": true,
+              "isUseRedEnvelope": null
+            },
+            {
+              "actId": 206977,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-15 10:00:01",
+              "endTime": "2017-12-14 10:00:01",
+              "createTime": "2016-12-09 19:49:52",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 24119,
+              "slogan1": "可以回味的历史！",
+              "slogan2": "可以回味的历史！",
+              "price": 739,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 5,
+          "name": "满减",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF8B58"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 22414,
+        "imgPath": "http://img06.jiuxian.com/2015/0810/a1b6186daf1643f9b958977e1a4ecbfe4.jpg",
+        "pname": "【超级单品日】52°泸州老窖三人炫1000ml（双瓶装）+52°泸州老窖三人炫100ml",
+        "jxPrice": 705,
+        "actPrice": 168,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "22414": [
+            {
+              "actId": 210361,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-22 20:52:20",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-22 20:52:31",
+              "state": "NORMAL",
+              "scope": "mobile",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 22414,
+              "groupPurchasePrice": 168,
+              "totalNubs": 99999,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "",
+              "slogan2": "",
+              "initbuyer": 0,
+              "initsales": 0,
+              "info": null,
+              "listimage": "/2015/1210/fadad7f09ad646eda6d331701ff173d2.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 1,
+              "sort": 1
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 2,
+          "name": "手机专享",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF6266"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 31923,
+        "imgPath": "http://img10.jiuxian.com/2016/1129/570c209881ee4f71947d1b5012b71b194.jpg",
+        "pname": "52°贵州茅台镇封坛原浆酒土豪金500ml*6",
+        "jxPrice": 168,
+        "actPrice": 138,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "31923": [
+            {
+              "actId": 210205,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-22 00:00:00",
+              "endTime": "2017-12-19 10:00:00",
+              "createTime": "2016-12-21 20:53:40",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 31923,
+              "slogan1": "封坛原浆，土豪金装！",
+              "slogan2": "封坛原浆，土豪金装！",
+              "price": 138,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 2465,
+        "imgPath": "http://img06.jiuxian.com/2015/0618/c3c43c018d9647af970c2c1d7fdf51164.jpg",
+        "pname": "53°茅台王子酒500ml（双瓶装）",
+        "jxPrice": 239,
+        "actPrice": 170,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "2465": [
+            {
+              "actId": 209792,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-20 11:17:23",
+              "endTime": "2016-12-28 21:17:27",
+              "createTime": "2016-12-20 11:20:24",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "更多团购活动",
+              "zdyurl": "http://tuan.jiuxian.com/",
+              "onlyCPS": false,
+              "productId": 2465,
+              "groupPurchasePrice": 170,
+              "totalNubs": 1380,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "标品直降，囤年货佳选，茅台王子酒，王子尊天下！",
+              "slogan2": "标品直降，囤年货佳选，茅台王子酒，王子尊天下！",
+              "initbuyer": 11,
+              "initsales": 1,
+              "info": null,
+              "listimage": "/2016/1220/61274bcaaa76492193a3fffaa1911e20.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 5
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 4081,
+        "imgPath": "http://img09.jiuxian.com/2016/0105/f7865982f7ad4417a29de6cccdc083c34.jpg",
+        "pname": "52°洋河蓝色经典梦之蓝M3  500ml",
+        "jxPrice": 499,
+        "actPrice": 399,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "4081": [
+            {
+              "actId": 209791,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-20 11:06:48",
+              "endTime": "2016-12-28 20:06:49",
+              "createTime": "2016-12-20 11:15:03",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "更多团购活动",
+              "zdyurl": "http://tuan.jiuxian.com/",
+              "onlyCPS": false,
+              "productId": 4081,
+              "groupPurchasePrice": 399,
+              "totalNubs": 1570,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "中国梦 梦之蓝 低价抢实惠",
+              "slogan2": "中国梦 梦之蓝 低价抢实惠",
+              "initbuyer": 7,
+              "initsales": 1,
+              "info": null,
+              "listimage": "/2016/1220/90903b511e2f40bf8adf8d463ab64d7b.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 5
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 28581,
+        "imgPath": "http://img06.jiuxian.com/2016/0506/3f1e571c3d844bb5a1c4789e19a5a0284.jpg",
+        "pname": "天鹅庄家族经典西拉干红葡萄酒黑色单支礼盒（双支装）",
+        "jxPrice": 458,
+        "actPrice": 199,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "28581": [
+            {
+              "actId": 17855,
+              "activtype": 29,
+              "name": "买天鹅庄单支礼盒，下单即送双支酒杯",
+              "startTime": "2016-12-15 11:11:34",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-15 11:17:16",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "requiredPurchaseQuantity": 1,
+              "benifits": [
+                {
+                  "giftId": 28729,
+                  "count": 2
+                }
+              ],
+              "loop": true
+            },
+            {
+              "actId": 209059,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-15 10:47:57",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-15 10:48:58",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 28581,
+              "groupPurchasePrice": 199,
+              "totalNubs": 9999,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true,
+              "slogan1": "下单即送双支水晶杯！60年坚守，160年历史传承！",
+              "slogan2": "下单即送双支水晶杯！60年坚守，160年历史传承！",
+              "initbuyer": 1200,
+              "initsales": 1250,
+              "info": null,
+              "listimage": "/2016/1215/303c9065965942ffa396b324154cdd9a.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 8
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 4,
+          "name": "买赠",
+          "wordColor": "#FFFFFF",
+          "backColor": "#C58CFF"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 2467,
+        "imgPath": "http://img08.jiuxian.com/2015/0618/a8f09e4baa2e45e0bf6291dc3348b7de4.jpg",
+        "pname": "53°茅台迎宾酒500ml（6瓶装）",
+        "jxPrice": 439,
+        "actPrice": 339,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "2467": [
+            {
+              "actId": 8018,
+              "activtype": 34,
+              "name": "加59元得1.2L金猴献福封坛酒",
+              "startTime": "2016-12-19 10:00:00",
+              "endTime": "2016-12-26 10:00:00",
+              "createTime": "2016-12-24 15:08:30",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "查看更多整箱会场商品",
+              "zdyurl": "http://shop.jiuxian.com/brand-392/activity-1515.htm",
+              "onlyCPS": false,
+              "limitNubs": 0,
+              "benifits": [
+                {
+                  "productId": 2467,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 2668,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7065,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7171,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10473,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10779,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10891,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 12428,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14074,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14440,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14899,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 15338,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 16559,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18950,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19102,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 22310,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 23763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24240,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24255,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24867,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25786,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25912,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26264,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 27304,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28673,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28811,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29209,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29858,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30022,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30871,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30883,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30977,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31271,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31372,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31399,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31442,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31446,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31756,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31842,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31872,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 32471,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30443,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31741,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28975,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29799,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26601,
+                  "main": false,
+                  "requiredPriceRaise": 59
+                }
+              ]
+            },
+            {
+              "actId": 206737,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-15 10:00:01",
+              "endTime": "2017-07-09 16:56:07",
+              "createTime": "2016-12-09 16:58:14",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 2467,
+              "slogan1": "茅台迎宾酒，喜迎天下人",
+              "slogan2": "茅台迎宾酒，喜迎天下人",
+              "price": 339,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 7,
+          "name": "加价购",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF704F"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 32351,
+        "imgPath": "http://img06.jiuxian.com/2016/1209/ec8ef022364945bd8fbe48e4bd2212c14.jpg",
+        "pname": "52°五粮液股份A级精品500ml*6",
+        "jxPrice": 168,
+        "actPrice": 159,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "32351": [
+            {
+              "actId": 209383,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-15 10:00:04",
+              "endTime": "2016-12-26 10:00:00",
+              "createTime": "2016-12-16 17:58:59",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 32351,
+              "slogan1": "超级爆款击破低价，血亏狂甩！",
+              "slogan2": "超级爆款击破低价，血亏狂甩！",
+              "price": 159,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 30021,
+        "imgPath": "http://img09.jiuxian.com/2016/0728/274eabcfe9ea40508245787979f41a024.jpg",
+        "pname": "法国茉莉花干红葡萄酒750ml（双瓶装）",
+        "jxPrice": 398,
+        "actPrice": 89,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "30021": [
+            {
+              "actId": 210244,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-24 19:00:00",
+              "endTime": "2016-12-25 07:00:00",
+              "createTime": "2016-12-22 11:39:22",
+              "state": "NORMAL",
+              "scope": "mobile",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 30021,
+              "groupPurchasePrice": 89,
+              "totalNubs": 200,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "miaosha",
+              "slogan2": "法国CVB集团‘超级波尔多’",
+              "initbuyer": 0,
+              "initsales": 20,
+              "info": null,
+              "listimage": "/2016/0926/2316d3dfaaca4935b51b22d1f07c9617.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 1,
+              "sort": 1
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 2,
+          "name": "掌上秒杀",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF6266"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 32345,
+        "imgPath": "http://img09.jiuxian.com/2016/1205/43c5a26b05f948e79c51d65d02edc1534.jpg",
+        "pname": "拉菲庄园2009珍酿原酒进口红酒男爵古堡干红葡萄酒红酒木箱装750ml*6",
+        "jxPrice": 298,
+        "actPrice": 278,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "32345": [
+            {
+              "actId": 209384,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-19 10:00:00",
+              "endTime": "2016-12-26 10:00:00",
+              "createTime": "2016-12-16 18:00:05",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 32345,
+              "slogan1": "下单即送6支装木箱",
+              "slogan2": "下单即送6支装木箱",
+              "price": 278,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 3,
+        "imgPath": "http://img10.jiuxian.com/2016/0831/8c9a6bc0f6cb4a8cb6d0e3b151363e1e4.jpg",
+        "pname": "53°茅台飞天500ml",
+        "jxPrice": 1159,
+        "actPrice": 1098,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "3": [
+            {
+              "actId": 209257,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-16 14:26:39",
+              "endTime": "2019-12-11 09:55:00",
+              "createTime": "2016-12-16 14:29:02",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 3,
+              "slogan1": "国酒茅台，高端酱香型代表。",
+              "slogan2": "国酒茅台，高端酱香型代表。",
+              "price": 1098,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 31456,
+        "imgPath": "http://img07.jiuxian.com/2016/1207/5b3c25c78c0a4b3393beb23b9847fe104.jpg",
+        "pname": "财源进福袋（199元6瓶）",
+        "jxPrice": 269,
+        "actPrice": 199,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "31456": [
+            {
+              "actId": 209774,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-20 09:39:54",
+              "endTime": "2016-12-28 21:39:59",
+              "createTime": "2016-12-20 09:43:09",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "更多团购活动",
+              "zdyurl": "http://tuan.jiuxian.com/",
+              "onlyCPS": false,
+              "productId": 31456,
+              "groupPurchasePrice": 199,
+              "totalNubs": 960,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "此199元福袋中含6瓶酒水，其中有机会获得茅台飞天、五粮液、剑南春等45款酒水随机组合发货，神秘大礼，限量1000份，拼手气，希望你能抢的到",
+              "slogan2": "此199元福袋中含6瓶酒水，其中有机会获得茅台飞天、五粮液、剑南春等45款酒水随机组合发货，神秘大礼，限量1000份，拼手气，希望你能抢的到",
+              "initbuyer": 8,
+              "initsales": 1,
+              "info": null,
+              "listimage": "/2016/1220/938178f4a36040b28879d936d0a0dd88.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 1
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 32396,
+        "imgPath": "http://img10.jiuxian.com/2016/1205/29b762c7beea40bfa15c51a70cfc04a44.jpg",
+        "pname": "53°飞天茅台500ml（2016年）+66°水井坊原浆酒（康乾古窖池）500ml",
+        "jxPrice": 2088,
+        "actPrice": 1399,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "32396": [
+            {
+              "actId": 209355,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-15 10:00:01",
+              "endTime": "2016-12-26 10:00:00",
+              "createTime": "2016-12-16 17:32:59",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 32396,
+              "slogan1": "飞天加水井坊惊爆组合！",
+              "slogan2": "飞天加水井坊惊爆组合！",
+              "price": 1399,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 24263,
+        "imgPath": "http://img07.jiuxian.com/2015/0929/727b08a93fdf46e6a62717293707a23e4.jpg",
+        "pname": "52°酒鬼酒（天工开物）1L+52°酒鬼酒（天工开物）248ml",
+        "jxPrice": 858,
+        "actPrice": 299,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "24263": [
+            {
+              "actId": 17975,
+              "activtype": 23,
+              "name": "满199送肯迪醒一瓶",
+              "startTime": "2016-12-20 10:12:21",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-24 11:00:49",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "isLoop": true,
+              "fullLimitPrice": 199,
+              "giftIds": [
+                26635
+              ]
+            },
+            {
+              "actId": 209802,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-20 11:51:32",
+              "endTime": "2016-12-28 16:51:47",
+              "createTime": "2016-12-20 11:54:32",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "更多团购活动",
+              "zdyurl": "http://tuan.jiuxian.com/",
+              "onlyCPS": false,
+              "productId": 24263,
+              "groupPurchasePrice": 299,
+              "totalNubs": 4800,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true,
+              "slogan1": "酒中妙品，鬼斧神工。",
+              "slogan2": "酒中妙品，鬼斧神工。",
+              "initbuyer": 16,
+              "initsales": 1,
+              "info": null,
+              "listimage": "/2016/1220/a87944362a5d4334b85b388f17c1c871.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 5
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 6,
+          "name": "满赠",
+          "wordColor": "#FFFFFF",
+          "backColor": "#5EAFFE"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 32435,
+        "imgPath": "http://img10.jiuxian.com/2016/1206/271e04a1af2f46eabfbd421488b857904.jpg",
+        "pname": "事业成福袋（299元6瓶）",
+        "jxPrice": 369,
+        "actPrice": 299,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "32435": [
+            {
+              "actId": 207739,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-08 15:56:51",
+              "endTime": "2017-12-11 16:03:28",
+              "createTime": "2016-12-11 16:03:48",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 32435,
+              "slogan1": "此299元福袋中含6瓶酒水，其中有机会获得茅台飞天、五粮液、洋河等酒水随机组合发货，神秘大礼，限量1000份",
+              "slogan2": "此299元福袋中含6瓶酒水，其中有机会获得茅台飞天、五粮液、洋河等酒水随机组合发货，神秘大礼，限量1000份",
+              "price": 299,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 29804,
+        "imgPath": "http://img06.jiuxian.com/2016/0901/15b12619054d440d8e7148497639d2534.jpg",
+        "pname": "澳大利亚丁戈树赤霞珠干红葡萄酒750ml（双瓶装）",
+        "jxPrice": 398,
+        "actPrice": 198,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "29804": [
+            {
+              "actId": 205944,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-14 10:00:01",
+              "endTime": "2018-12-05 16:21:21",
+              "createTime": "2016-12-07 10:24:45",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 29804,
+              "slogan1": "丁戈树赤霞珠干红葡萄酒750ml，南澳核心赤霞珠产区酒，330mm澳洲重型瓶，天然软木塞，包装简约国际范。酒仙网董事长郝鸿峰带队原产地直采，省去中间环节，只为质优价廉。",
+              "slogan2": "丁戈树赤霞珠干红葡萄酒750ml，南澳核心赤霞珠产区酒，330mm澳洲重型瓶，天然软木塞，包装简约国际范。酒仙网董事长郝鸿峰带队原产地直采，省去中间环节，只为质优价廉。",
+              "price": 198,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 10108,
+        "imgPath": "http://img09.jiuxian.com/2015/0320/0f18abc4a3c140d295629a380f6143594.jpg",
+        "pname": "50°伊力春（蓝钻石）500ml",
+        "jxPrice": 39,
+        "actPrice": 19,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "10108": [
+            {
+              "actId": 210236,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-22 10:47:50",
+              "endTime": "2016-12-26 10:00:00",
+              "createTime": "2016-12-22 10:51:59",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "更多团购活动",
+              "zdyurl": "http://tuan.jiuxian.com/",
+              "onlyCPS": false,
+              "productId": 10108,
+              "groupPurchasePrice": 19,
+              "totalNubs": 2000,
+              "purchaseCycle": 0,
+              "purchaseNubs": 1,
+              "isUseRedEnvelope": false,
+              "slogan1": "限量秒杀，每个id限购1瓶",
+              "slogan2": "限量秒杀，每个id限购1瓶",
+              "initbuyer": 10,
+              "initsales": 1,
+              "info": null,
+              "listimage": "/2016/1222/b377289fdf1b4ae78adc761db5955933.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 3
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 30809,
+        "imgPath": "http://img09.jiuxian.com/2016/0920/af9252c6529a48ba8b51bc0bb34ee0da4.jpg",
+        "pname": "【超级单品日】53°金沙陶坛原浆酒2500ml",
+        "jxPrice": 299,
+        "actPrice": 129,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "30809": [
+            {
+              "actId": 17975,
+              "activtype": 23,
+              "name": "满199送肯迪醒一瓶",
+              "startTime": "2016-12-20 10:12:21",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-24 11:00:49",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "isLoop": true,
+              "fullLimitPrice": 199,
+              "giftIds": [
+                26635
+              ]
+            },
+            {
+              "actId": 209614,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-19 14:59:13",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-19 15:03:00",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "更多团购活动",
+              "zdyurl": "http://tuan.jiuxian.com/",
+              "onlyCPS": false,
+              "productId": 30809,
+              "groupPurchasePrice": 129,
+              "totalNubs": 5600,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true,
+              "slogan1": "品质酱酒，大坛原浆",
+              "slogan2": "12月26日10点超级单品日，秒杀价：119元，加59元再得一箱价值99元泸州老窖藏品5，裸价狂促，敬请期待，仅限24小时",
+              "initbuyer": 22,
+              "initsales": 1,
+              "info": null,
+              "listimage": "/2016/1027/2915fa9dd9d443d5a274335ec7b56bab.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 5
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 6,
+          "name": "满赠",
+          "wordColor": "#FFFFFF",
+          "backColor": "#5EAFFE"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 31270,
+        "imgPath": "http://img06.jiuxian.com/2016/1019/e98c0be2b46d4869bc55045fd56a63874.jpg",
+        "pname": "【超级单品日】42°优级杏花村酒(升级版)500ml（双瓶装）",
+        "jxPrice": 316,
+        "actPrice": 129,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "31270": [
+            {
+              "actId": 209773,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-20 15:08:17",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-20 09:40:51",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "更多团购活动",
+              "zdyurl": "http://tuan.jiuxian.com/",
+              "onlyCPS": false,
+              "productId": 31270,
+              "groupPurchasePrice": 129,
+              "totalNubs": 7900,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true,
+              "slogan1": "数量有限，先到先得，升级来袭，单支精装，买两瓶赠送原厂手提袋！送礼倍儿有面",
+              "slogan2": "12月26日10点超级单品日，秒杀价：109元，加59元再得一箱价值99元泸州老窖藏品5，裸价狂促，敬请期待，仅限24小时",
+              "initbuyer": 17,
+              "initsales": 1,
+              "info": null,
+              "listimage": "/2016/1024/f67a7d091b3547e0be07c045dddcc232.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 5
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 30871,
+        "imgPath": "http://img07.jiuxian.com/2016/1011/5d1ba7f86015457fbd3dfa247b8573304.jpg",
+        "pname": "52°泸州老窖龙香醇·福装500ml（6瓶装）",
+        "jxPrice": 354,
+        "actPrice": 98,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "30871": [
+            {
+              "actId": 8018,
+              "activtype": 34,
+              "name": "加59元得1.2L金猴献福封坛酒",
+              "startTime": "2016-12-19 10:00:00",
+              "endTime": "2016-12-26 10:00:00",
+              "createTime": "2016-12-24 15:08:30",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "查看更多整箱会场商品",
+              "zdyurl": "http://shop.jiuxian.com/brand-392/activity-1515.htm",
+              "onlyCPS": false,
+              "limitNubs": 0,
+              "benifits": [
+                {
+                  "productId": 2467,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 2668,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7065,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7171,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10473,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10779,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10891,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 12428,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14074,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14440,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14899,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 15338,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 16559,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18950,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19102,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 22310,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 23763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24240,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24255,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24867,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25786,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25912,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26264,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 27304,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28673,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28811,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29209,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29858,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30022,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30871,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30883,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30977,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31271,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31372,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31399,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31442,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31446,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31756,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31842,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31872,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 32471,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30443,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31741,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28975,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29799,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26601,
+                  "main": false,
+                  "requiredPriceRaise": 59
+                }
+              ]
+            },
+            {
+              "actId": 210757,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-24 18:19:18",
+              "endTime": "2017-01-28 09:59:59",
+              "createTime": "2016-12-24 18:19:25",
+              "state": "NORMAL",
+              "scope": "mobile",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 30871,
+              "groupPurchasePrice": 98,
+              "totalNubs": 99999,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "",
+              "slogan2": "包邮，泸州老窖股份出品，口粮酒钜惠",
+              "initbuyer": 0,
+              "initsales": 0,
+              "info": null,
+              "listimage": "/2016/1019/77257c6431594142853f174bef708aa3.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 1,
+              "sort": 1
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 7,
+          "name": "加价购",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF704F"
+        },
+        {
+          "type": 2,
+          "name": "手机专享",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF6266"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 12428,
+        "imgPath": "http://img08.jiuxian.com/2015/1217/b411c8a4726f4e448a030b6f61c5c7424.jpg",
+        "pname": "38°扳倒井青花瓷700ml（6瓶装）",
+        "jxPrice": 169,
+        "actPrice": 129,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "12428": [
+            {
+              "actId": 8018,
+              "activtype": 34,
+              "name": "加59元得1.2L金猴献福封坛酒",
+              "startTime": "2016-12-19 10:00:00",
+              "endTime": "2016-12-26 10:00:00",
+              "createTime": "2016-12-24 15:08:30",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "查看更多整箱会场商品",
+              "zdyurl": "http://shop.jiuxian.com/brand-392/activity-1515.htm",
+              "onlyCPS": false,
+              "limitNubs": 0,
+              "benifits": [
+                {
+                  "productId": 2467,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 2668,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7065,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7171,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10473,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10779,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10891,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 12428,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14074,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14440,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14899,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 15338,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 16559,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18950,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19102,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 22310,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 23763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24240,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24255,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24867,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25786,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25912,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26264,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 27304,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28673,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28811,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29209,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29858,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30022,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30871,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30883,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30977,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31271,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31372,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31399,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31442,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31446,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31756,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31842,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31872,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 32471,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30443,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31741,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28975,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29799,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26601,
+                  "main": false,
+                  "requiredPriceRaise": 59
+                }
+              ]
+            },
+            {
+              "actId": 210385,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-15 10:00:01",
+              "endTime": "2018-12-19 11:57:02",
+              "createTime": "2016-12-23 10:09:56",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 12428,
+              "slogan1": "物美价廉 低度浓香，送礼整箱送",
+              "slogan2": "物美价廉 低度浓香，送礼整箱送",
+              "price": 129,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 7,
+          "name": "加价购",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF704F"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 29899,
+        "imgPath": "http://img09.jiuxian.com/2016/0801/6c0742086dfa444d9a31e0e68eb4dedc4.jpg",
+        "pname": "澳大利亚奔富洛神山庄西拉赤霞珠干红葡萄酒1000ml",
+        "jxPrice": 99,
+        "actPrice": 53.9,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "29899": [
+            {
+              "actId": 210753,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-14 10:00:01",
+              "endTime": "2017-12-24 17:45:49",
+              "createTime": "2016-12-24 17:46:03",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 29899,
+              "slogan1": "奔富洛神 大毫升更尽兴",
+              "slogan2": "奔富洛神 大毫升更尽兴",
+              "price": 53.9,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 17273,
+        "imgPath": "http://img07.jiuxian.com/2016/0218/b1029fa3d8044a069d4655390418aa074.jpg",
+        "pname": "53°王祖烧坊酱香窖藏酒·深邃1000ml（双瓶装）",
+        "jxPrice": 278,
+        "actPrice": 139,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "17273": [
+            {
+              "actId": 210221,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-22 15:55:01",
+              "endTime": "2020-12-09 10:31:38",
+              "createTime": "2016-12-22 09:35:15",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 17273,
+              "slogan1": "正宗王茅酱酒，云龙宣纸包装",
+              "slogan2": "正宗王茅酱酒，云龙宣纸包装",
+              "price": 139,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 1331,
+        "imgPath": "http://img09.jiuxian.com/2016/0519/ee230c781e3241c9ab7798280786ea1e4.jpg",
+        "pname": "澳大利亚黄尾袋鼠西拉红葡萄酒750ml（又名：西拉子、设拉子）",
+        "jxPrice": 89,
+        "actPrice": 43,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "1331": [
+            {
+              "actId": 210120,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-15 10:00:01",
+              "endTime": "2019-12-21 15:46:08",
+              "createTime": "2016-12-21 15:46:26",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 1331,
+              "slogan1": "澳大利亚代表作之一、通过对传统葡萄酒口味的改造，使其口味更为大众化，比如减少苦涩，加重甜味，使那些初次尝试葡萄酒的消费者也能欣然接受。",
+              "slogan2": "澳大利亚代表作之一、通过对传统葡萄酒口味的改造，使其口味更为大众化，比如减少苦涩，加重甜味，使那些初次尝试葡萄酒的消费者也能欣然接受。",
+              "price": 43,
+              "purchaseCycle": 1,
+              "purchaseNubs": 6,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 312,
+        "imgPath": "http://img08.jiuxian.com/2015/0321/8059226bb181485bbc78e5fe3f1bfed64.jpg",
+        "pname": "42°洋河蓝色经典海之蓝 480ml",
+        "jxPrice": 224,
+        "actPrice": 118,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "312": [
+            {
+              "actId": 210372,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-23 17:56:31",
+              "endTime": "2016-12-31 17:56:31",
+              "createTime": "2016-12-23 09:35:33",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "更多团购活动",
+              "zdyurl": "http://tuan.jiuxian.com/",
+              "onlyCPS": false,
+              "productId": 312,
+              "groupPurchasePrice": 118,
+              "totalNubs": 500,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "限时抢购，好酒值得抢",
+              "slogan2": "限时抢购，好酒值得抢",
+              "initbuyer": 10,
+              "initsales": 1,
+              "info": null,
+              "listimage": "/2016/1211/1f6899ec630e4d58b23d282753b5b7b4.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 1
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 125,
+        "imgPath": "http://img07.jiuxian.com/2016/0314/4160749ff2b64f749ddfb06cf5d0cafb4.jpg",
+        "pname": "【超级单品日】53°十年红花郎酒500ml",
+        "jxPrice": 288,
+        "actPrice": 280,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "125": [
+            {
+              "actId": 208944,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-15 10:00:01",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-14 19:32:03",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "更多团购活动",
+              "zdyurl": "http://tuan.jiuxian.com/",
+              "onlyCPS": false,
+              "productId": 125,
+              "groupPurchasePrice": 280,
+              "totalNubs": 1400,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "十年酱香美酒，红色包装，喜气洋洋",
+              "slogan2": "12月26日10点超级单品日，秒杀价：270元，加59元再得一箱价值99元泸州老窖藏品5，裸价狂促，敬请期待，仅限24小时",
+              "initbuyer": 8,
+              "initsales": 1,
+              "info": null,
+              "listimage": "/2016/1124/8d9831f6054144039223784ad2518994.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 5
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 17323,
+        "imgPath": "http://img10.jiuxian.com/2014/1023/a0c7002e5ccd4e609642abba9d88fc0a4.jpg",
+        "pname": "52°泸州老窖特曲375ml",
+        "jxPrice": 129,
+        "actPrice": 109,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "17323": [
+            {
+              "actId": 195946,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-10-28 16:02:30",
+              "endTime": "2017-10-28 16:02:30",
+              "createTime": "2016-10-28 09:35:56",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 17323,
+              "slogan1": "泸州老窖特曲，低价直降，实惠抢不停",
+              "slogan2": "泸州老窖特曲，低价直降，实惠抢不停",
+              "price": 109,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 31308,
+        "imgPath": "http://img10.jiuxian.com/2016/1028/608fa61335104ed7adab0a5e340be9f54.jpg",
+        "pname": "52°泸州老窖藏品（珍藏5）500ml（6瓶装）",
+        "jxPrice": 396,
+        "actPrice": 99,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "31308": [
+            {
+              "actId": 210220,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-22 19:04:50",
+              "endTime": "2016-12-30 19:04:50",
+              "createTime": "2016-12-22 09:33:55",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "更多团购活动",
+              "zdyurl": "http://tuan.jiuxian.com/",
+              "onlyCPS": false,
+              "productId": 31308,
+              "groupPurchasePrice": 99,
+              "totalNubs": 5200,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "泸州老窖出品，新老包装交替发货",
+              "slogan2": "泸州老窖出品，新老包装交替发货",
+              "initbuyer": 26,
+              "initsales": 1,
+              "info": null,
+              "listimage": "/2016/1130/705b6caf565e4db494cf11984b3586bb.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 5
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 23425,
+        "imgPath": "http://img08.jiuxian.com/2016/0630/d77eb484c67e4d908ee949727d82fa0d4.jpg",
+        "pname": "西班牙（原瓶进口）莫拉斯城堡干红葡萄酒750ml（12瓶）装",
+        "jxPrice": 623,
+        "actPrice": 339,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "23425": [
+            {
+              "actId": 204167,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-15 10:00:01",
+              "endTime": "2020-12-02 09:41:10",
+              "createTime": "2016-12-02 09:42:55",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 23425,
+              "slogan1": "葡萄酒狂欢直降 聚会更尽兴",
+              "slogan2": "葡萄酒狂欢直降 聚会更尽兴",
+              "price": 339,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 30081,
+        "imgPath": "http://img06.jiuxian.com/2016/0901/e3160f2d3f0f4e6da7f1c3d696b82f4f4.jpg",
+        "pname": "【超级单品日】54°董酒尊享封藏大坛1500ml",
+        "jxPrice": 599,
+        "actPrice": 429,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "30081": [
+            {
+              "actId": 17975,
+              "activtype": 23,
+              "name": "满199送肯迪醒一瓶",
+              "startTime": "2016-12-20 10:12:21",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-24 11:00:49",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "isLoop": true,
+              "fullLimitPrice": 199,
+              "giftIds": [
+                26635
+              ]
+            },
+            {
+              "actId": 209854,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-15 10:00:01",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-20 15:28:56",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 30081,
+              "slogan1": "12月26日10点超级单品日，秒杀价：399元，加59元再得一箱价值99元泸州老窖藏品5，裸价狂促，敬请期待，仅限24小时",
+              "slogan2": "12月26日10点超级单品日，秒杀价：399元，加59元再得一箱价值99元泸州老窖藏品5，裸价狂促，敬请期待，仅限24小时",
+              "price": 429,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 6,
+          "name": "满赠",
+          "wordColor": "#FFFFFF",
+          "backColor": "#5EAFFE"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 7171,
+        "imgPath": "http://img10.jiuxian.com/2016/0920/08536dca5d824f3baa5d87eb0af1d39a4.jpg",
+        "pname": "38°孔府家酒陶天下大陶500ml （6瓶装）",
+        "jxPrice": 174,
+        "actPrice": 119,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "7171": [
+            {
+              "actId": 8018,
+              "activtype": 34,
+              "name": "加59元得1.2L金猴献福封坛酒",
+              "startTime": "2016-12-19 10:00:00",
+              "endTime": "2016-12-26 10:00:00",
+              "createTime": "2016-12-24 15:08:30",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "查看更多整箱会场商品",
+              "zdyurl": "http://shop.jiuxian.com/brand-392/activity-1515.htm",
+              "onlyCPS": false,
+              "limitNubs": 0,
+              "benifits": [
+                {
+                  "productId": 2467,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 2668,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7065,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7171,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10473,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10779,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10891,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 12428,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14074,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14440,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14899,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 15338,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 16559,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18950,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19102,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 22310,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 23763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24240,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24255,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24867,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25786,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25912,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26264,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 27304,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28673,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28811,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29209,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29858,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30022,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30871,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30883,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30977,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31271,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31372,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31399,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31442,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31446,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31756,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31842,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31872,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 32471,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30443,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31741,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28975,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29799,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26601,
+                  "main": false,
+                  "requiredPriceRaise": 59
+                }
+              ]
+            },
+            {
+              "actId": 210219,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-22 16:00:02",
+              "endTime": "2020-12-22 09:28:45",
+              "createTime": "2016-12-22 09:31:21",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 7171,
+              "slogan1": "白酒整箱优惠，经济实惠口碑好！",
+              "slogan2": "白酒整箱优惠，经济实惠口碑好！",
+              "price": 119,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 7,
+          "name": "加价购",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF704F"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 1529,
+        "imgPath": "http://img08.jiuxian.com/2015/1222/eca74eab1f154a60935b984f08fe10384.jpg",
+        "pname": "法国拉菲尚品波尔多法定产区红葡萄酒（ASC正品行货）",
+        "jxPrice": 199,
+        "actPrice": 109,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "1529": [
+            {
+              "actId": 204367,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-02 15:28:34",
+              "endTime": "2019-11-15 10:25:54",
+              "createTime": "2016-12-02 15:28:48",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 1529,
+              "slogan1": "以名庄的传统技术进行酿制，忠诚地展现出了集团酒庄细腻优雅相结合的风格。",
+              "slogan2": "以名庄的传统技术进行酿制，忠诚地展现出了集团酒庄细腻优雅相结合的风格。",
+              "price": 109,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 25300,
+        "imgPath": "http://img08.jiuxian.com/2015/1211/098e2b5eb3904eb09baa4104a0e595594.jpg",
+        "pname": "52°水井坊·井台装简装升级版（义勇仁）500ml",
+        "jxPrice": 489,
+        "actPrice": 399,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "25300": [
+            {
+              "actId": 206918,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-15 10:00:00",
+              "endTime": "2017-12-09 18:37:07",
+              "createTime": "2016-12-09 18:41:16",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 25300,
+              "slogan1": "",
+              "slogan2": "",
+              "price": 399,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": false
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 7065,
+        "imgPath": "http://img06.jiuxian.com/2015/0207/391b598041d54247825f5412282fbef54.jpg",
+        "pname": "46°牛栏山二锅头典藏十二陈酿500ml（6瓶装）",
+        "jxPrice": 654,
+        "actPrice": 228,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "7065": [
+            {
+              "actId": 8018,
+              "activtype": 34,
+              "name": "加59元得1.2L金猴献福封坛酒",
+              "startTime": "2016-12-19 10:00:00",
+              "endTime": "2016-12-26 10:00:00",
+              "createTime": "2016-12-24 15:08:30",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "查看更多整箱会场商品",
+              "zdyurl": "http://shop.jiuxian.com/brand-392/activity-1515.htm",
+              "onlyCPS": false,
+              "limitNubs": 0,
+              "benifits": [
+                {
+                  "productId": 2467,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 2668,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7065,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7171,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10473,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10779,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10891,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 12428,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14074,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14440,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14899,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 15338,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 16559,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18950,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19102,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 22310,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 23763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24240,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24255,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24867,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25786,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25912,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26264,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 27304,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28673,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28811,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29209,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29858,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30022,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30871,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30883,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30977,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31271,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31372,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31399,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31442,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31446,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31756,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31842,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31872,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 32471,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30443,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31741,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28975,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29799,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26601,
+                  "main": false,
+                  "requiredPriceRaise": 59
+                }
+              ]
+            },
+            {
+              "actId": 196511,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-11-01 11:13:44",
+              "endTime": "2017-03-30 15:00:00",
+              "createTime": "2016-11-01 11:13:47",
+              "state": "NORMAL",
+              "scope": "mobile",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 7065,
+              "groupPurchasePrice": 228,
+              "totalNubs": 999999,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "",
+              "slogan2": "",
+              "initbuyer": 0,
+              "initsales": 0,
+              "info": null,
+              "listimage": "/2016/0903/40cad7ff425a479081a63fb2855d06b8.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 1,
+              "sort": 1
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 2,
+          "name": "手机专享",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF6266"
+        },
+        {
+          "type": 7,
+          "name": "加价购",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF704F"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 22710,
+        "imgPath": "http://img06.jiuxian.com/2015/0811/4520b3efd8bc4c38a5dbe4dcb7a1ee484.jpg",
+        "pname": "52°沱牌典雅500ml(双瓶装)",
+        "jxPrice": 318,
+        "actPrice": 139,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "22710": [
+            {
+              "actId": 210523,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-23 21:00:01",
+              "endTime": "2020-12-15 09:59:59",
+              "createTime": "2016-12-23 17:24:49",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 22710,
+              "slogan1": "沱牌典雅 彰显品质",
+              "slogan2": "沱牌典雅 彰显品质",
+              "price": 139,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 14899,
+        "imgPath": "http://img07.jiuxian.com/2016/1109/964e4921b2724df282993cd4d30674de4.jpg",
+        "pname": "法国原瓶进口AOC勆迪干红葡萄酒750ml（6瓶装）",
+        "jxPrice": 459,
+        "actPrice": 329,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "14899": [
+            {
+              "actId": 8018,
+              "activtype": 34,
+              "name": "加59元得1.2L金猴献福封坛酒",
+              "startTime": "2016-12-19 10:00:00",
+              "endTime": "2016-12-26 10:00:00",
+              "createTime": "2016-12-24 15:08:30",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "查看更多整箱会场商品",
+              "zdyurl": "http://shop.jiuxian.com/brand-392/activity-1515.htm",
+              "onlyCPS": false,
+              "limitNubs": 0,
+              "benifits": [
+                {
+                  "productId": 2467,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 2668,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7065,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7171,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10473,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10779,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10891,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 12428,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14074,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14440,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14899,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 15338,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 16559,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18950,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19102,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 22310,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 23763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24240,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24255,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24867,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25786,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25912,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26264,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 27304,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28673,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28811,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29209,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29858,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30022,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30871,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30883,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30977,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31271,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31372,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31399,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31442,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31446,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31756,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31842,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31872,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 32471,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30443,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31741,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28975,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29799,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26601,
+                  "main": false,
+                  "requiredPriceRaise": 59
+                }
+              ]
+            },
+            {
+              "actId": 204161,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-15 10:00:01",
+              "endTime": "2020-11-30 22:04:30",
+              "createTime": "2016-12-02 09:40:40",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 14899,
+              "slogan1": "法国原瓶进口AOC",
+              "slogan2": "法国原瓶进口AOC",
+              "price": 329,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 7,
+          "name": "加价购",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF704F"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 28673,
+        "imgPath": "http://img09.jiuxian.com/2016/0510/0cdee5433dd448b0a8c4e95a71bd1f374.jpg",
+        "pname": "法国米洛骑士干红葡萄酒750ml（6瓶装）",
+        "jxPrice": 534,
+        "actPrice": 199,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "28673": [
+            {
+              "actId": 8018,
+              "activtype": 34,
+              "name": "加59元得1.2L金猴献福封坛酒",
+              "startTime": "2016-12-19 10:00:00",
+              "endTime": "2016-12-26 10:00:00",
+              "createTime": "2016-12-24 15:08:30",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "查看更多整箱会场商品",
+              "zdyurl": "http://shop.jiuxian.com/brand-392/activity-1515.htm",
+              "onlyCPS": false,
+              "limitNubs": 0,
+              "benifits": [
+                {
+                  "productId": 2467,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 2668,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7065,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7171,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10473,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10779,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10891,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 12428,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14074,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14440,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14899,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 15338,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 16559,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18950,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19102,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 22310,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 23763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24240,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24255,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24867,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25786,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25912,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26264,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 27304,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28673,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28811,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29209,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29858,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30022,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30871,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30883,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30977,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31271,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31372,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31399,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31442,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31446,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31756,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31842,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31872,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 32471,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30443,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31741,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28975,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29799,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26601,
+                  "main": false,
+                  "requiredPriceRaise": 59
+                }
+              ]
+            },
+            {
+              "actId": 204344,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-15 10:00:01",
+              "endTime": "2018-11-30 22:06:06",
+              "createTime": "2016-12-02 15:23:32",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 28673,
+              "slogan1": "海外直采，直接让利给消费者",
+              "slogan2": "海外直采，直接让利给消费者",
+              "price": 199,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 7,
+          "name": "加价购",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF704F"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 15495,
+        "imgPath": "http://img10.jiuxian.com/2016/0928/2845916c69f244958bffd54e557949964.jpg",
+        "pname": "【超级单品日】法国原瓶进口莫蕾尔干红葡萄酒750ml（6瓶装）",
+        "jxPrice": 359,
+        "actPrice": 198,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "15495": [
+            {
+              "actId": 209001,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-15 10:00:00",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-15 09:59:08",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "点击查看更多团购商品",
+              "zdyurl": "http://tuan.jiuxian.com/",
+              "onlyCPS": false,
+              "productId": 15495,
+              "groupPurchasePrice": 198,
+              "totalNubs": 9000,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true,
+              "slogan1": "聚会套装，初学者的选择结构较平衡，回味悠长",
+              "slogan2": "12月26日10点超级单品日，到手价：168元，加59元再得一箱价值99元泸州老窖藏品5，裸价狂促，敬请期待，仅限24小时",
+              "initbuyer": 3990,
+              "initsales": 3939,
+              "info": null,
+              "listimage": "/2016/1101/a4d02a37e17849ba84e875da059fbbc8.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 8
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 23978,
+        "imgPath": "http://img06.jiuxian.com/2016/0826/b3599bbb5af14d45b6e2147efe6823c54.jpg",
+        "pname": "西班牙（原瓶进口）醉爱干红葡萄酒750ml*2（双支皮盒套装）",
+        "jxPrice": 158,
+        "actPrice": 129,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "23978": [
+            {
+              "actId": 209012,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-15 10:02:18",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-15 10:02:32",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 23978,
+              "groupPurchasePrice": 129,
+              "totalNubs": 9000,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true,
+              "slogan1": "送礼有面 原瓶进口",
+              "slogan2": "送礼有面 原瓶进口",
+              "initbuyer": 6990,
+              "initsales": 7439,
+              "info": null,
+              "listimage": "/2016/1122/21613d66acac49e7855ee3d390cf966d.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 8
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 654,
+        "imgPath": "http://img07.jiuxian.com/2016/0127/a909bc556dc04474823d6cabfc8abaf24.jpg",
+        "pname": "40°法国轩尼诗XO 700ml",
+        "jxPrice": 1598,
+        "actPrice": 1299,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "654": [
+            {
+              "actId": 209779,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-20 10:19:56",
+              "endTime": "2018-12-11 10:00:00",
+              "createTime": "2016-12-20 10:20:07",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 654,
+              "slogan1": "尊贵享受，高品质追求",
+              "slogan2": "尊贵享受，高品质追求",
+              "price": 1299,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 9094,
+        "imgPath": "http://img06.jiuxian.com/2016/0127/c5bb02d8b9a1417cb880b9c6619ad8804.jpg",
+        "pname": "40°美国杰克丹尼700ml Jack Daniels",
+        "jxPrice": 142.8,
+        "actPrice": 126,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "9094": [
+            {
+              "actId": 210366,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-22 21:10:34",
+              "endTime": "2016-12-31 07:00:00",
+              "createTime": "2016-12-22 21:10:45",
+              "state": "NORMAL",
+              "scope": "mobile",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 9094,
+              "groupPurchasePrice": 126,
+              "totalNubs": 9999,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "",
+              "slogan2": "独树一帜 散发馥郁芬芳",
+              "initbuyer": 0,
+              "initsales": 0,
+              "info": null,
+              "listimage": "/2016/1101/f1f739a66bb74636aecf20a2829d9736.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 1,
+              "sort": 1
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 2,
+          "name": "手机专享",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF6266"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 644,
+        "imgPath": "http://img10.jiuxian.com/2014/0512/f24592a649f34f738cef4cc02835bdc14.jpg",
+        "pname": "40°法国马爹利名士干邑700ml",
+        "jxPrice": 459,
+        "actPrice": 418,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "644": [
+            {
+              "actId": 204227,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-15 10:00:01",
+              "endTime": "2017-09-02 10:49:12",
+              "createTime": "2016-12-02 10:50:17",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 644,
+              "slogan1": "其口感成熟，适合加冰净饮，或配以优质矿泉水，甄选陈年干邑，创造清醇顺滑的成熟口感，留香持久；脱俗的切面流线型瓶身设计，契合与生具有高贵品质的魅力人士",
+              "slogan2": "其口感成熟，适合加冰净饮，或配以优质矿泉水，甄选陈年干邑，创造清醇顺滑的成熟口感，留香持久；脱俗的切面流线型瓶身设计，契合与生具有高贵品质的魅力人士",
+              "price": 418,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 641,
+        "imgPath": "http://img07.jiuxian.com/2016/0630/40867bb5c4054f47acc74133a701c29e4.jpg",
+        "pname": "40°芝华士12年苏格兰威士忌700ml",
+        "jxPrice": 218,
+        "actPrice": 189,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "641": [
+            {
+              "actId": 204180,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-15 10:00:01",
+              "endTime": "2019-12-02 09:45:17",
+              "createTime": "2016-12-02 09:46:43",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 641,
+              "slogan1": "由谷物（大麦、黑麦、玉米）和麦芽为原料混合酿造而成，经发酵、蒸馏后放入木桐酵化而酿成，酒质丰润，口感平和，具有水果的馥郁芳香和烟熏气味，是苏格兰威士忌的珍品，有“苏格兰威士忌王子”的美誉",
+              "slogan2": "由谷物（大麦、黑麦、玉米）和麦芽为原料混合酿造而成，经发酵、蒸馏后放入木桐酵化而酿成，酒质丰润，口感平和，具有水果的馥郁芳香和烟熏气味，是苏格兰威士忌的珍品，有“苏格兰威士忌王子”的美誉",
+              "price": 189,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 25552,
+        "imgPath": "http://img09.jiuxian.com/2015/1210/c661d20487ac47a19c37a42dfd81a2d44.jpg",
+        "pname": "四大鸡尾酒基酒套餐 伏特加 威士忌 白兰地 朗姆酒",
+        "jxPrice": 476,
+        "actPrice": 299,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "25552": [
+            {
+              "actId": 161303,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-03-01 19:48:29",
+              "endTime": "2017-03-01 19:48:38",
+              "createTime": "2016-03-01 19:48:49",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 25552,
+              "slogan1": "【套装狂欢价】调配属于你的鸡尾酒，选基酒，不发愁！",
+              "slogan2": "【套装狂欢价】调配属于你的鸡尾酒，选基酒，不发愁！",
+              "price": 299,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 600,
+        "imgPath": "http://img09.jiuxian.com/2016/0829/62f347d0e55d43f5916e8f3959d2d1d14.jpg",
+        "pname": "52°剑南春500ml",
+        "jxPrice": 399,
+        "actPrice": 355,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "600": [
+            {
+              "actId": 210360,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-22 20:51:04",
+              "endTime": "2016-12-31 19:00:00",
+              "createTime": "2016-12-22 20:51:14",
+              "state": "NORMAL",
+              "scope": "mobile",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 600,
+              "groupPurchasePrice": 355,
+              "totalNubs": 600,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "",
+              "slogan2": "",
+              "initbuyer": 0,
+              "initsales": 0,
+              "info": null,
+              "listimage": "/2016/1112/c3d4938c2b9449068667d0f604ff71c1.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 1,
+              "sort": 1
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 2,
+          "name": "手机专享",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF6266"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 28005,
+        "imgPath": "http://img09.jiuxian.com/2016/0413/55e0e019a72b41f9b8a7f97ba70d09d24.jpg",
+        "pname": "45°沱牌头曲500ml",
+        "jxPrice": 39,
+        "actPrice": 9.9,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "28005": [
+            {
+              "actId": 209544,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-19 10:00:01",
+              "endTime": "2016-12-26 10:00:00",
+              "createTime": "2016-12-19 09:56:56",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 28005,
+              "slogan1": "限时秒杀，每人限购1瓶",
+              "slogan2": "限时秒杀，每人限购1瓶",
+              "price": 9.9,
+              "purchaseCycle": 1,
+              "purchaseNubs": 1,
+              "isUseRedEnvelope": false
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 526,
+        "imgPath": "http://img08.jiuxian.com/2014/0715/de04df41940f4cd69f11a58635d41d3a4.jpg",
+        "pname": "52°五粮液1000ml",
+        "jxPrice": 1799,
+        "actPrice": 1399,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "526": [
+            {
+              "actId": 209938,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-09-08 10:00:00",
+              "endTime": "2020-12-17 10:06:03",
+              "createTime": "2016-12-20 17:39:13",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 526,
+              "slogan1": "中国的五粮液，1000ml量更大，送礼商务宴请，均有面",
+              "slogan2": "中国的五粮液，1000ml量更大，送礼商务宴请，均有面",
+              "price": 1399,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": []
+    },
+    {
+      "commonProductInfo": {
+        "pid": 24240,
+        "imgPath": "http://img08.jiuxian.com/2016/1031/89389c4de4514637ac730b3d697458a24.jpg",
+        "pname": "【超级单品日】52°泸州老窖御酒韵坛618ml纪念版（6瓶装）",
+        "jxPrice": 594,
+        "actPrice": 239,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "24240": [
+            {
+              "actId": 8018,
+              "activtype": 34,
+              "name": "加59元得1.2L金猴献福封坛酒",
+              "startTime": "2016-12-19 10:00:00",
+              "endTime": "2016-12-26 10:00:00",
+              "createTime": "2016-12-24 15:08:30",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "查看更多整箱会场商品",
+              "zdyurl": "http://shop.jiuxian.com/brand-392/activity-1515.htm",
+              "onlyCPS": false,
+              "limitNubs": 0,
+              "benifits": [
+                {
+                  "productId": 2467,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 2668,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7065,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 7171,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10473,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10779,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 10891,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 12428,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14074,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14440,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 14899,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 15338,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 16559,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 18950,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19102,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 19763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 22310,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 23763,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24240,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24255,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 24867,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25786,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 25912,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26264,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 27304,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28673,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28811,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29209,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29858,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30022,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30871,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30883,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30977,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31271,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31372,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31373,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31399,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31442,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31446,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31756,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31842,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31872,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 32471,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 30443,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 31741,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 28975,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 29799,
+                  "main": true,
+                  "requiredPriceRaise": 0
+                },
+                {
+                  "productId": 26601,
+                  "main": false,
+                  "requiredPriceRaise": 59
+                }
+              ]
+            },
+            {
+              "actId": 208941,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-15 10:00:10",
+              "endTime": "2016-12-26 09:59:59",
+              "createTime": "2016-12-14 19:27:10",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "更多团购活动",
+              "zdyurl": "http://tuan.jiuxian.com/",
+              "onlyCPS": false,
+              "productId": 24240,
+              "groupPurchasePrice": 239,
+              "totalNubs": 2800,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "大容量，极具性价比",
+              "slogan2": "12月26日10点超级单品日，秒杀价：199元，加59元再得一箱价值99元泸州老窖藏品5，裸价狂促，敬请期待，仅限24小时",
+              "initbuyer": 11,
+              "initsales": 1,
+              "info": null,
+              "listimage": "/2016/1130/49c12f081bf84012a2953918b597986c.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 0,
+              "sort": 5
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 7,
+          "name": "加价购",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF704F"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 32039,
+        "imgPath": "http://img10.jiuxian.com/2016/1202/a701cd5450434ac6a4cc0d1f08bf5c5f4.jpg",
+        "pname": "52°国五液（陈酿）500ml（2012-2013年）+67°男人·衡水老白干500ml",
+        "jxPrice": 888,
+        "actPrice": 299,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "32039": [
+            {
+              "actId": 210235,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-22 10:46:57",
+              "endTime": "2016-12-30 10:00:00",
+              "createTime": "2016-12-22 10:47:05",
+              "state": "NORMAL",
+              "scope": "mobile",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 32039,
+              "groupPurchasePrice": 299,
+              "totalNubs": 999999,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "",
+              "slogan2": "五粮液股份荣誉出品，五粮液高端酒，酒国盛酒兴，品味佳酿。搭配河北名酒衡水老白干！真男人的67°老白干 古法工艺酿造 入口甘甜 回味悠长！",
+              "initbuyer": 0,
+              "initsales": 0,
+              "info": null,
+              "listimage": "/2016/1209/6318b837ce3b4baf806ae3bdebc8d23c.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 1,
+              "sort": 1
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 2,
+          "name": "手机专享",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF6266"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 30430,
+        "imgPath": "http://img06.jiuxian.com/2016/0831/203444b1a2c54da6885d0fdb5090c2434.jpg",
+        "pname": "53°优级杏花村1000ml",
+        "jxPrice": 258,
+        "actPrice": 99,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "30430": [
+            {
+              "actId": 17944,
+              "activtype": 22,
+              "name": "【第2瓶半价】优级杏花村",
+              "startTime": "2016-12-21 10:19:48",
+              "endTime": "2016-12-28 10:00:00",
+              "createTime": "2016-12-21 10:22:31",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "fullLimitPrice": 198,
+              "decreasePrice": 49.5,
+              "isLoop": true,
+              "isUseRedEnvelope": null
+            },
+            {
+              "actId": 210055,
+              "activtype": 14,
+              "name": "限时抢购",
+              "startTime": "2016-12-13 11:49:02",
+              "endTime": "2016-12-28 10:00:00",
+              "createTime": "2016-12-21 10:20:53",
+              "state": "NORMAL",
+              "scope": "pc",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 30430,
+              "slogan1": "【第2瓶半价】①小缸精酿的优级酒品，粮食固态发酵②四川酿酒研究所官荣评分94分，权威机构为酒质保驾华航③历时两年匠心之作，白银帝国鸿运当头，致敬自己与贵人！④一杯杏花村，半部华夏史！做醉坚定的历史文化传承者！",
+              "slogan2": "【第2瓶半价】①小缸精酿的优级酒品，粮食固态发酵②四川酿酒研究所官荣评分94分，权威机构为酒质保驾华航③历时两年匠心之作，白银帝国鸿运当头，致敬自己与贵人！④一杯杏花村，半部华夏史！做醉坚定的历史文化传承者！",
+              "price": 99,
+              "purchaseCycle": -99,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": true
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 5,
+          "name": "满减",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF8B58"
+        }
+      ]
+    },
+    {
+      "commonProductInfo": {
+        "pid": 30276,
+        "imgPath": "http://img09.jiuxian.com/2016/0824/fb885fbf542846bc9efdef1e25b53a734.jpg",
+        "pname": "42°汾阳王府藏600ml",
+        "jxPrice": 129,
+        "actPrice": 65,
+        "promoInfo": null,
+        "subTitle": null,
+        "proPromos": {
+          "30276": [
+            {
+              "actId": 210369,
+              "activtype": 12,
+              "name": "团购促销",
+              "startTime": "2016-12-22 21:16:36",
+              "endTime": "2016-12-31 07:00:00",
+              "createTime": "2016-12-22 21:16:44",
+              "state": "NORMAL",
+              "scope": "mobile",
+              "productScope": "item",
+              "zdyname": "",
+              "zdyurl": "",
+              "onlyCPS": false,
+              "productId": 30276,
+              "groupPurchasePrice": 65,
+              "totalNubs": 9999,
+              "purchaseCycle": 0,
+              "purchaseNubs": -99,
+              "isUseRedEnvelope": false,
+              "slogan1": "",
+              "slogan2": "",
+              "initbuyer": 0,
+              "initsales": 0,
+              "info": null,
+              "listimage": "/2016/0829/b499f13e97e94480b56223ff40333e93.jpg",
+              "infoimage": null,
+              "newFirstPageImagePath": null,
+              "isShowInFirstpage": 1,
+              "sort": 1
+            }
+          ]
+        },
+        "onSale": true,
+        "inventoryExists": true
+      },
+      "promo": [
+        {
+          "type": 2,
+          "name": "手机专享",
+          "wordColor": "#FFFFFF",
+          "backColor": "#FF6266"
+        }
+      ]
+    }
+  ]
+}

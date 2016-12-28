@@ -1,0 +1,10 @@
+angular.module("app.buyCar",[])
+.config(function($stateProvider,$urlRouterProvider){
+	$stateProvider
+	.state({
+		name:'buycar',
+		url:'/buycar',
+		template:'pages/buycar/buycar.html'
+		css:'pages/buycar/buycar.css'
+	})
+})

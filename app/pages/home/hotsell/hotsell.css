@@ -1,0 +1,132 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+html{
+	font-size:100px;
+}
+body{	
+	font-family:微软雅黑,microsoft yahei;
+	font-size:12px;
+	width: 100%;
+	background: #ff542e;
+}
+a{
+	text-decoration:none;
+}
+ul,ol{
+	list-style:none;
+}
+img{
+	border:none;	
+}
+.clearfixed:after{
+	content: ".";
+	clear:both;
+	display: block;
+	height: 0px;
+	visibility: hidden; 
+}
+input,textarea{
+	outline: none;
+}
+.y_sell img{
+	
+	vertical-align: top;
+	width: 100%;
+}
+.y_banner img{
+	width: 100%;
+}
+/*------------爆款top榜下的列表------------------*/
+.y_list ul{
+	width: 96%;
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+	flex-wrap: wrap;
+}
+.y_list li{
+	width: 49%;
+	text-align: center;
+	background: #fff;
+	margin: 0 0 0.08rem 0;
+}
+.y_list li img{
+	width: 1.4rem;
+	height: 1.4rem;
+}
+.y_name{
+	width: 92%;
+	height: 0.31rem;
+	text-align: center;
+	margin: 0 auto 0.06rem auto;
+	overflow: hidden;
+}
+.y_empty{
+	margin: 0 auto;
+	width: 92%;
+	height: 0.27rem;
+	border-top:1px solid #8e8e8e;
+}
+.y_price{
+	height: 0.24rem;
+	line-height: 0.24rem;
+	width:92%;
+	margin: 0 auto 0.08rem auto;	
+}
+.y_price p{
+	float: left;
+}
+.y_price a{
+	display: block;
+	float: right;
+	width: 0.7rem;
+	background: #ff0000;
+	color:#fff;
+	border-radius: 0.03rem;
+}
+.y_price p span{
+	font-size: 0.14rem;
+	color:#ff0000;
+	font-weight: bold;
+	margin: 0 0.09rem 0 0 ;
+}
+.y_price p i{
+	font-style:normal;
+	text-decoration: line-through;
+	color: #7a7a7a;
+}
+/*-----------------------回到顶部-------------------------*/
+.y_toTop{
+	height: 0.56rem;
+	width: 100%;
+	margin: 0.43rem 0 0.3rem 0;
+	
+}
+.y_toTop a{
+	margin: 0 auto;
+	display: block;
+	width: 0.53rem;
+	height: 0.53rem;
+	background: #fff;
+	border-radius: 50%;
+	padding: 0.1px;
+	border:0.03rem solid #ff2753;
+}
+.y_toTop i{
+	display: block;
+	width: 0.14rem;
+	height: 0.09rem;
+	background: url(../img/arr.jpg) no-repeat;
+	margin: 0.05rem 0.18rem 0.02rem;
+}
+.y_toTop span{
+	width: 100%;
+    height: auto;
+    display: block;
+    text-align: center;
+    color: #280130;
+    line-height: 0.15rem;
+}

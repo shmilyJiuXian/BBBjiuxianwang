@@ -1,0 +1,150 @@
+{
+  "list1": [
+    {
+      "pic": "http://img07.jiuxian.com/2016/1202/a701cd5450434ac6a4cc0d1f08bf5c5f4.jpg",
+      "proId": 32039,
+      "price": "￥299.00",
+      "goods_name":"52°国五液（陈酿）500ml（2012-2013年）+67°男人·衡水老白干500ml",
+      "phone_price":"比电脑购买省100.00元"
+    },
+     {
+      "pic": "http://img08.jiuxian.com/2015/0612/e604fd9009764658acfaedd4cd98cfc84.jpg",
+      "proId": 5074,
+      "price": "￥38.00",
+      "goods_name":"50°西凤·御宴酒（精装版）500ml",
+      "phone_price":"比电脑购买省1.00元"
+    },
+    {
+      "pic": "http://img08.jiuxian.com/2016/1011/5d1ba7f86015457fbd3dfa247b8573304.jpg",
+      "proId": 30871,
+      "price": "￥98.00",
+      "goods_name":"52°泸州老窖龙香醇·福装500ml（6瓶装）",
+      "phone_price":"比电脑购买省1.00元"
+    },
+    {
+      "pic": "http://img07.jiuxian.com/2016/0829/62f347d0e55d43f5916e8f3959d2d1d14.jpg",
+       "proId": 600,
+       "price":"￥355.00",
+      "goods_name":"52°剑南春500ml",
+      "phone_price":"比电脑购买省4.00元"
+    },
+     {
+      "pic": "http://img10.jiuxian.com/2015/0810/a1b6186daf1643f9b958977e1a4ecbfe4.jpg",
+       "proId": 22414,
+        "price": "￥168.00",
+      "goods_name":"【超级单品日】52°泸州老窖三人炫1000ml（双瓶装）+52°泸州老窖三人炫100ml",
+      "phone_price":"比电脑购买省1.00元"
+    },
+    {
+      "pic": "http://img08.jiuxian.com/2015/1030/7b44465aa77d441b82fb2b29cb2990454.jpg",
+       "proId": 23734,
+       "price": "￥198.00",
+      "goods_name":"53°汾酒集团（繁花镂空版）1500ml",
+      "phone_price":"比电脑购买省1.00元"
+    },
+    {
+      "pic": "http://img10.jiuxian.com/2016/0901/2ae8584d5a6d4159be2ddc4b9ef1097f4.jpg",
+       "proId": 29754,
+        "price": "￥109.00",
+      "goods_name":"50°汾酒集团盛世帝王黄金版1500ml",
+      "phone_price":"比电脑购买省50.00元"
+    },
+    {
+      "pic": "http://img08.jiuxian.com/2016/0824/fb885fbf542846bc9efdef1e25b53a734.jpg",
+       "proId": 30276,
+        "price": "￥65.00",
+      "goods_name":"42°汾阳王府藏600ml",
+      "phone_price":"比电脑购买省4.00元"
+    },
+     {
+      "pic": "http://img06.jiuxian.com/2016/1028/8959f513c77f4a81b454ef60633f00b74.jpg",
+       "proId": 31466,
+        "price": "￥129.00",
+      "goods_name":"54°鸭溪窖酒500ml（双瓶装）",
+      "phone_price":"比电脑购买省10.00元"
+    }
+  ],
+  "list2":[
+      {
+        "pic": "http://img10.jiuxian.com/2014/0710/fc6d03095c3b49598c5b0a484c5606694.jpg",
+        "price": "￥348.00",
+      "goods_name":"43°法国马爹利鼎盛干邑白兰地700ml",
+      "phone_price":"比电脑购买省10.00元"
+      },
+      {
+        "pic": "http://img07.jiuxian.com/2015/0804/3d14ce0d91ff493eb6d26a92cf5e24c44.jpg",
+        "price": "￥125.00",
+      "goods_name":"美国32领域庄园赤霞珠干红葡萄酒750ml",
+      "phone_price":"比电脑购买省4.00元"
+      },
+      {
+        "pic": "http://img10.jiuxian.com/2016/0830/c2c6600ce5704414bef49b0d8b6eb2d14.jpg",
+        "price": "￥119.00",
+      "goods_name":"法国罗纳之桥罗纳河谷干红葡萄酒750ml",
+      "phone_price":"比电脑购买省10.00元"
+      },
+      {
+        "pic": "http://img08.jiuxian.com/2016/1103/cad85494cd2d49f795ad010123f42f6b4.jpg",
+        "price": "￥289.00",
+      "goods_name":"法国AOP茉莉花 - 圣•夕阳干红葡萄酒750ml*6支装",
+      "phone_price":"比电脑购买省10.00元"
+      },
+      {
+        "pic": "http://img08.jiuxian.com/2016/1122/48473dba898d4665bb54fcf5234aefd04.jpg",
+        "price": "￥389.00",
+      "goods_name":"法国老诺曼科比埃红葡萄酒750ml(6瓶装）",
+      "phone_price":"比电脑购买省10.00元"
+      },
+       {
+        "pic": "http://img06.jiuxian.com/2016/1104/7063ae361750474eb03c8db7f7faa6bc4.jpg",
+        "price": "￥179.00",
+      "goods_name":"澳大利亚王朝赤霞珠干红-西拉干红葡萄酒（邮票纪念版）礼盒装",
+      "phone_price":"比电脑购买省10.00元"
+      }
+  ],
+  "list3":[
+      {
+       "pic": "http://img08.jiuxian.com/2014/0412/92e2e9fba38f426faee0256ff2763dc34.jpg",
+        "price": "￥179.00",
+      "goods_name":"14°会稽山雕王八年陈2500ml",
+      "phone_price":"比电脑购买省9.00元" 
+      },
+      {
+       "pic": "http://img10.jiuxian.com/2016/1012/aea1291ff9c646e68c932084266960d04.jpg",
+        "price": "￥118.00",
+      "goods_name":"古越龙山古越太雕2500ml",
+      "phone_price":"比电脑购买省1.00元" 
+      },
+      {
+       "pic": "http://img06.jiuxian.com/2016/0426/d35a5b90327141ddb4e3fe10db2737d44.jpg",
+        "price": "￥108.00",
+      "goods_name":"14°女儿红珍藏2008手酿2800ml",
+      "phone_price":"比电脑购买省5.00元" 
+      },
+      {
+       "pic": "http://img08.jiuxian.com/2013/1230/9b8fe663bd484ab9be35a6ac809e2f094.jpg",
+        "price": "￥22.70",
+      "goods_name":"14°会稽山纯正五年陈绍兴酒500ml",
+      "phone_price":"比电脑购买省0.10元" 
+      },
+      {
+       "pic": "http://img09.jiuxian.com/2014/1209/e0b0c892dc474aefac34e67b5c7823c74.jpg",
+        "price": "￥95.00",
+      "goods_name":"12°古越龙山五年状元红2500ml",
+      "phone_price":"比电脑购买省4.00元" 
+      },
+       {
+       "pic": "http://img08.jiuxian.com/2015/1030/7b14de13831e49109a4299c2fedc36aa4.jpg",
+        "price": "￥109.00",
+      "goods_name":"14°会稽山八年陈绍兴花雕酒礼盒500ml*2",
+      "phone_price":"比电脑购买省10.00元" 
+      },
+      {
+       "pic": "http://img09.jiuxian.com/2016/0928/4423d29bd9984e0386bff3449c49a7024.jpg",
+        "price": "￥289.00",
+      "goods_name":"12°胜景山河清爽特型半干黄酒750ml*4",
+      "phone_price":"比电脑购买省10.00元" 
+      }
+
+  ]
+}

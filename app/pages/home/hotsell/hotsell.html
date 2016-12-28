@@ -1,0 +1,91 @@
+
+		<!--爆款特卖-->
+		<div class="y_sell">
+			<img src="http://img07.jiuxian.com/bill/2016/1211/2d07aa0c35f545b5a6b529a6964a1ddd.jpg" alt="" />
+			<img src="http://img06.jiuxian.com/bill/2016/1215/01aab2c33dad48aa968c56d0d5723f2c.jpg" alt="" />
+		</div>
+		<!--爆款top榜-->
+	<div class="y_list" ng-controller="hotsell1">
+			<div class="y_banner">
+			<img src="http://img09.jiuxian.com/bill/2016/1205/accc0021494542b18718354ee700a525.jpg" alt="" />
+			</div>
+			<!--列表项-->
+			<ul>
+				<li ng-repeat="x in items">
+					<div class="y_pic">
+						<img ng-src="{{x.goods_thumb}}" alt="" />
+					</div>
+					<p class="y_name">{{x.goods_name}}</p>
+					<p class="y_empty"></p>
+					<div class="y_price">
+					<p><span>{{x.cur_price}}</span><i>{{x.shop_price}}</i></p><a href="#">点击购买</a>
+					</div>
+				</li>				
+			</ul>
+		</div>
+		<!--整箱囤货-->
+		<div class="y_list" ng-controller="hotsell2">
+			<div class="y_banner">
+			<img src="http://img06.jiuxian.com/bill/2016/1204/aea5168ff9e74fd3b272c1800f7e6a55.jpg" alt="" />
+			</div>
+			<!--列表项-->
+			<ul>
+				<li ng-repeat="x in items">
+					<div class="y_pic">
+						<img ng-src="{{x.goods_thumb}}" alt="" />
+					</div>
+					<p class="y_name">{{x.goods_name}}</p>
+					<!--<p class="y_empty"></p>-->
+					<div class="y_price">
+					<p><span>{{x.cur_price}}</span><i>{{x.shop_price}}</i></p><a href="#">点击购买</a>
+					</div>
+				</li>				
+			</ul>
+		</div>
+		<!--进口大牌-->
+		<div class="y_list" ng-controller="hotsell3">
+			<div class="y_banner">
+			<img src="http://img08.jiuxian.com/bill/2016/1204/24e6b35893a345ab9e22235beb9a0b5c.jpg" alt="" />
+			</div>
+			<!--列表项-->
+			<ul>
+				<li ng-repeat="x in items">
+					<div class="y_pic">
+						<img ng-src="{{x.goods_thumb}}" alt="" />
+					</div>
+					<p class="y_name">{{x.goods_name}}</p>
+					<!--<p class="y_empty"></p>-->
+					<div class="y_price">
+					<p><span>{{x.cur_price}}</span><i>{{x.shop_price}}</i></p><a href="#">点击购买</a>
+					</div>
+				</li>				
+			</ul>
+		</div>
+		<!--鼎力推荐-->
+		<div class="y_list" ng-controller="hotsell4">
+			<div class="y_banner">
+			<img src="http://img10.jiuxian.com/bill/2016/1204/9b1fb356c39e46498cd62222a5c17482.jpg" alt="" />
+			</div>
+			<!--列表项-->
+			<ul>
+				<li ng-repeat="x in items">
+					<div class="y_pic">
+						<img ng-src="{{x.goods_thumb}}" alt="" />
+					</div>
+					<p class="y_name">{{x.goods_name}}</p>
+					<!--<p class="y_empty"></p>-->
+					<div class="y_price">
+					<p><span>{{x.cur_price}}</span><i>{{x.shop_price}}</i></p><a href="#">点击购买</a>
+					</div>
+				</li>				
+			</ul>
+		</div>
+		<div class="y_toTop">
+			<a href="#"><i></i><span>返回<br />顶部</span></a>
+		</div>
+		<!--回到顶部-->
+		<script type="text/javascript">
+			$(".y_toTop").on("click",function(){
+				$(document).scrollTop=0;
+			})
+		</script>
